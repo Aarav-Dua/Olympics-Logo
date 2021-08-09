@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgb(255, 255, 255); 
+	font-size: 40px;
+}
+.body_backgorund {
+background-image: url("bg1.jpg");
+background-size: cover;
+;
+}
+
+#myCanvas{
+background-color: lightgreen;
+border:red;
+border-width: 10px;
+border-style: dashed;
+border-radius: 75px;
+}
